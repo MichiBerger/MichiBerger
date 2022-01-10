@@ -1,20 +1,11 @@
 
-# Hello I´m Michi!
+# Hello my name is Michi!
 
-I´m a Web Developement student at **neuefische GmbH**
-
-How old are you?
-
-**38 years**
-
-Where is your homebase?
-
-**Munich**
-
-
-**Erfahrungen:** 
-* HTML & CSS
+I´m a Web Developement student at neuefische GmbH and currently living in Munich, Germany.
+ 
+**Technical Skills:** 
+* HTML5 & CSS3
+* Javascript
 * Wordpress
-* Projectmanagement
 
 Visit me at [LinkedIn](https://www.linkedin.com/in/michael-berger-697321158/)
