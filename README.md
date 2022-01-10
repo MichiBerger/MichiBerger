@@ -4,15 +4,17 @@
 I´m a Web Developement student at **neuefische GmbH**
 
 How old are you?
-38
+
+**38 years**
 
 Where is your homebase?
-Munich
+
+**Munich**
 
 
-Erfahrungen: 
-* Grundkenntnissse in HTML & CSS
-* eigene Webseite mit Wordpress
-* Projektmanagement
+**Erfahrungen:** 
+* HTML & CSS
+* Wordpress
+* Projectmanagement
 
 Visit me at [LinkedIn](https://www.linkedin.com/in/michael-berger-697321158/)
