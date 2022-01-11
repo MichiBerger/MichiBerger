@@ -1,7 +1,7 @@
 
 # Hello my name is Michi!
 
-I´m a Web Developement student at neuefische GmbH and currently living in Munich, Germany.
+I´m a Web Developement student at neuefische GmbH and currently living in Munich, :de:.
  
 **Technical Skills:** 
 * HTML5 & CSS3
